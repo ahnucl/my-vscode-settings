@@ -1,0 +1,21 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula",
+    "git.autofetch": true,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    
+    "material-icon-theme.folders.associations": {
+        "migrations": "generator",
+    },
+
+    "emmet.syntaxProfiles": { "javascript": "jsx" },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Fira Code",
+    "window.zoomLevel": 0,
+    "explorer.compactFolders": false,
+    
+}
