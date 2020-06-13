@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "editor.fontLigatures": null,
+    "workbench.iconTheme": "material-icon-theme",
+
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,  
+    "editor.fontSize": 16,
+    "explorer.compactFolders": false,
+    "workbench.editor.labelFormat": "short",
+    "workbench.startupEditor": "newUntitledFile",
+}
